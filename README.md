@@ -16,23 +16,6 @@ It scans files and directories for malicious patterns based on YARA rules, displ
 
 ---
 
-## 📁 Project Structure
-yara_scanner/
-│── rules/ # YARA rule files (.yar)
-│ ├── trojan_rule.yar
-│ ├── phishing_rule.yar
-│ ├── ransomware_rule.yar
-│
-│── samples/ # Sample files to scan
-│ ├── harmless.txt
-│ ├── trojan_test.txt
-│ ├── phishing_test.txt
-│
-│── scanner.py # Main Python script
-│── requirements.txt # Python dependencies
-
-
----
 
 ##  Installation
 
