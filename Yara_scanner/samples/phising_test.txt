@@ -1,0 +1,4 @@
+Dear User,
+Please verify your account immediately by visiting:
+http://securebank-login.cn/account-update
+Failure to do so will result in account suspension.

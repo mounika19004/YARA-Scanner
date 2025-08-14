@@ -1,0 +1,3 @@
+This is a harmless file but it contains a fake trojan marker:
+evil_payload
+Also it tries to run cmd.exe /c malicious_script.bat

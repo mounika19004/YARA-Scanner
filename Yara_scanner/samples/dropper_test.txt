@@ -1,0 +1,4 @@
+Harmless content with suspicious API calls:
+CreateFileA
+WriteFile
+LoadLibraryA
